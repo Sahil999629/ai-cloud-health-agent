@@ -30,7 +30,7 @@ It proactively monitors cloud infrastructure, auto-remediates common issues, and
 
 ## Solution Architecture
 
-![Architecture Diagram](diagrams/architecture.png) <!-- Replace with actual image path in your repo -->
+![Architecture Diagram](![Architecture Diagram](diagrams/A_professional,_color_digital_diagram_titled_"AI-P.png")) <!-- Replace with actual image path in your repo -->
 
 - **AWS Lambda:** Executes health agent logic on demand.
 - **Amazon S3:** Central storage for incident reports and AI summaries.
